@@ -451,6 +451,8 @@ export default function HomeScreen() {
   );
 }
 ```
+ 
+We also removed the unnecessary styles (the date styles) because they are now being handled by the `HomeHeader` component.
 
 ## 19. Meal List Screen
 
